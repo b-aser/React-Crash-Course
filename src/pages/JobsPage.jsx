@@ -3,7 +3,7 @@ import JobListings from '../components/JobListings'
 
 const JobsPage = () => {
   return (
-    <section className="m-auto max-w-4xl">
+    <section>
       <JobListings />
     </section>
   )
